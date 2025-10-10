@@ -11,6 +11,12 @@ p{
   margin-left: -3px;
   top: 0; 
 }
+.home-button{
+    color:white !important; 
+    block-size: 75px !important; 
+    font-size:50px !important; 
+    font-weight:600 !important;
+}
 .side-button{
     color:white;
     width: 150px; 
