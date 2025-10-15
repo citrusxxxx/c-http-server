@@ -3,6 +3,7 @@ p{
     border-width: 2px; 
     border-color: black;   
 } 
+
 .vertical-line {
   border-left: 6px black;
   height: 500px;
